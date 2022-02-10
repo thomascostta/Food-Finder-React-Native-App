@@ -5,6 +5,11 @@ Para visualizar meu projeto, acesse a  `Branch: <new/ref/thomas>`
 > Criando e editando novas funcionalidades de um App já existente. No App original possui apenas a seleção de restaurantes com seus endereços, porém somente layout. Estou desenvolvendo novas features, deixando o App com funcionalidades reais.
 
 
+ ---
+https://user-images.githubusercontent.com/82541529/153480509-3790f003-1a54-49d4-9b96-7de990fc9f7d.mp4
+
+---
+
 
 ## 💻 Ajustes e melhorias
 
