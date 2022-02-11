@@ -15,9 +15,9 @@ https://user-images.githubusercontent.com/82541529/153480509-3790f003-1a54-49d4-
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Carrinho de Compras 🚧
-- [ ] Modal da simulação de Pagamento
-- [ ] Implementação do Redux
+- [x] Carrinho de Compras 
+- [x] Modal da simulação de Pagamento
+- [x] Implementação do Redux 🚧
 - [ ] E outras funcionalidades 😄 
 
 
